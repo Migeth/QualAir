@@ -28,3 +28,5 @@ Le but de notre projet est de créer un système de surveillance de la qualité 
 - Capteur de température
 - Capteur d’humidité
 
+# Lien du projet
+https://www.tinkercad.com/things/3eEsd1Ve3nk-qualair/editel?sharecode=V1imDGqqmzQnHk2lAATUjOzua3AAbN4roy1pzF93MpI
